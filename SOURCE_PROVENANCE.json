@@ -1,0 +1,42 @@
+{
+  "retrieved": "2026-11-17",
+  "files": [
+    {
+      "file": "scripts/s2_train_locator.py",
+      "server_sha256": "15cfc77b9b6e35483efb395aa0269fc9699572b1c59a16daa546bc800c62f9b8",
+      "changes": "Portable path configuration; corrected usage spelling and clarified NULL-query docstring",
+      "release_sha256": "490fec37572d4a5065bb3da3f8d5de6babe93a79e4cb7ea3fb4210f87c77f309"
+    },
+    {
+      "file": "scripts/s3_train_reader.py",
+      "server_sha256": "e0e30f1cbd5e7a5762ccf9e3dfd67c7ce8fca99e7952c01d482201c37efd5833",
+      "changes": "Portable path configuration",
+      "release_sha256": "81e357bda4a1c0209ef196e7b482d1240243288afef7170adde8798921e5b5e0"
+    },
+    {
+      "file": "scripts/s3_build_data.py",
+      "server_sha256": "cdefd816e7a3402efcace546fc8402220c36e7b6878f7c310f1cb85776f98e76",
+      "changes": "Portable path configuration",
+      "release_sha256": "84a36b63eda2c324eeaf2d5ed2de3f66a95df5fcbc11aecf793d1fe0b216dd15"
+    },
+    {
+      "file": "scripts/s4_build_data.py",
+      "server_sha256": "e4ce353ba315f4d8b1aa129f1e75c84ec1d086c7d1d3fab05f0de536430b3860",
+      "changes": "Line endings normalized",
+      "release_sha256": "e4ce353ba315f4d8b1aa129f1e75c84ec1d086c7d1d3fab05f0de536430b3860"
+    },
+    {
+      "file": "scripts/t0_g1g2_probe.py",
+      "server_sha256": "fd0d69cd836eef052c2e2a6c71532551167fc9cd27d7553057fa508b74dece49",
+      "changes": "Portable path configuration; deferred VAE imports in shared helper",
+      "release_sha256": "0b0e8c9b5ee35e83baa892198a27d8d390789799bd5f480e86c1c09e0edfda61"
+    },
+    {
+      "file": "scripts/freeze_splits.py",
+      "server_sha256": "b63ac8aa32562fda66b1e91c1dda403de9fb63a55283490356cfce705976e1be",
+      "changes": "Portable path configuration",
+      "release_sha256": "99a040fe3563cf45cfbff2a834a0853a882c95cb70fd51ebc49ffab0ffae0e40"
+    }
+  ],
+  "training_architectures_and_losses": "Preserved from experiment sources"
+}

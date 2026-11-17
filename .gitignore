@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.safetensors
+*.npy
+*.npz
+*.mp4
+*.jsonl
